@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h -R --from=JULIEN BETTY /
+chown -h -R --from=OLDUSER NEWUSER /
